@@ -1,0 +1,134 @@
+[
+    {
+        "id": 2,
+        "title": "Enhance your knowledge.",
+        "Img": "https://i.ibb.co/dc1M6j5/Education.png",
+        "category": "Education",
+        "description": "Enhance your knowledge.",
+        "price": "$14.99",
+        "card_bg_color": "#FF444A10",
+        "cart_text_color": "#FF444A",
+        "donation_description": "This educational resource is designed to help you enhance your knowledge in a variety of subjects. With carefully curated content and expertly crafted materials, you'll have the tools you need to excel in your studies. Whether you're a student looking to expand your horizons or a lifelong learner eager to explore new topics, this resource has something for everyone. Invest in your education and unlock a world of opportunities. Your contribution goes towards supporting our mission of providing quality educational resources to learners worldwide. Thank you for your generous donation."
+    },
+    {
+        "id": 8,
+        "title": "Satisfy your cravings.",
+        "Img": "https://i.ibb.co/5Bds9s5/Food.png",
+        "category": "Food",
+        "description": "Satisfy your cravings.",
+        "price": "$12.99",
+        "card_bg_color": "#F8714726",
+        "cart_text_color": "#F87147",
+        "donation_description": "Indulge in a delightful culinary experience with our exquisite food items. From delectable flavors to mouthwatering aromas, each dish is carefully crafted to satisfy your cravings. Your taste buds will thank you for this extraordinary journey through a world of culinary delights. By making a contribution, you're not only treating yourself to a delightful meal but also supporting local artisans and chefs. Your generous donation allows us to continue creating exceptional food experiences for our community. Thank you for being a part of our culinary adventure!"
+    },
+    {
+        "id": 5,
+        "title": "Fashionable clothing choice.",
+        "Img": "https://i.ibb.co/tsyB2Rv/Rectangle-4284.png",
+        "category": "Clothing",
+        "description": "Fashionable clothing choice.",
+        "price": "$39.99",
+        "card_bg_color": "#79C23F26",
+        "cart_text_color": "#79C23F",
+        "donation_description": "Elevate your style with our fashionable clothing choices. Each item is meticulously designed to exude confidence, elegance, and individuality. From casual wear to statement pieces, our collection caters to every fashion-forward individual. Your contribution not only allows you to express yourself through fashion but also supports local designers and artisans. By donating, you become a part of our mission to promote sustainable and inclusive fashion. Thank you for being a part of our stylish journey!"
+    },
+    {
+        "id": 7,
+        "title": "Delicious food option.",
+        "Img": "https://i.ibb.co/5Bds9s5/Food.png",
+        "category": "Food",
+        "description": "Delicious food option.",
+        "price": "$9.99",
+        "card_bg_color": "#F8714726",
+        "cart_text_color": "#F87147",
+        "donation_description": "Experience the joy of savoring delicious food options that are sure to tantalize your taste buds. Each dish is prepared with love, care, and the finest ingredients to ensure a delightful culinary experience. By making a contribution, you're not only treating yourself to a sumptuous meal but also supporting local farmers and producers. Your generous donation allows us to continue creating exceptional dining experiences for our patrons. Thank you for being a part of our gastronomic journey!"
+    },
+    {
+        "id": 4,
+        "title": "A stylish clothing item.",
+        "Img": "https://i.ibb.co/yPRbbRf/Clothing.png",
+        "category": "Clothing",
+        "description": "A stylish clothing item.",
+        "price": "$49.99",
+        "card_bg_color": "#79C23F26",
+        "cart_text_color": "#79C23F",
+        "donation_description": "Elevate your wardrobe with our stylish clothing items. Each piece is carefully curated to blend comfort, functionality, and fashion-forward design. From timeless classics to contemporary trends, our collection caters to diverse tastes and preferences. Your contribution not only allows you to express your unique style but also supports local designers and artisans. By donating, you become a part of our mission to promote sustainable and inclusive fashion. Thank you for being a part of our stylish journey!"
+    },
+    {
+        "id": 9,
+        "title": "Explore culinary delights.",
+        "Img": "https://i.ibb.co/5Bds9s5/Food.png",
+        "category": "Food",
+        "description": "Explore culinary delights.",
+        "price": "$14.99",
+        "card_bg_color": "#F8714726",
+        "cart_text_color": "#F87147",
+        "donation_description": "Embark on a culinary adventure and explore a world of delightful flavors and mouthwatering dishes. Each creation is a testament to our passion for crafting exceptional food experiences. By making a contribution, you're not only treating yourself to a memorable meal but also supporting local farmers and producers. Your generous donation allows us to continue creating exceptional dining experiences for our patrons. Thank you for being a part of our gastronomic journey!"
+    },
+    {
+        "id": 1,
+        "title": "This is an educational resource.",
+        "Img": "https://i.ibb.co/dc1M6j5/Education.png",
+        "category": "Education",
+        "description": "This is an educational resource.",
+        "price": "$19.99",
+        "card_bg_color": "#FF444A10",
+        "cart_text_color": "#FF444A",
+        "donation_description": "This educational resource is designed to empower learners with knowledge and skills that will shape their future. With a diverse range of subjects and expertly curated content, this resource is a valuable tool for students and lifelong learners alike. Your contribution supports our mission of making quality education accessible to all. Together, we can create a brighter tomorrow for learners around the world. Thank you for your generous donation."
+    },
+    {
+        "id": 6,
+        "title": "Upgrade your wardrobe.",
+        "Img": "https://i.ibb.co/kJssmzc/Rectangle-4287.png",
+        "category": "Clothing",
+        "description": "Upgrade your wardrobe.",
+        "price": "$59.99",
+        "card_bg_color": "#79C23F26",
+        "cart_text_color": "#79C23F",
+        "donation_description": "Elevate your style and upgrade your wardrobe with our carefully curated selection of fashion-forward clothing items. Each piece is designed to inspire confidence and individuality. Your contribution not only allows you to express your unique style but also supports local designers and artisans. By donating, you become a part of our mission to promote sustainable and inclusive fashion. Thank you for being a part of our stylish journey!"
+    },
+    {
+        "id": 10,
+        "title": "Stay healthy and fit.",
+        "Img": "https://i.ibb.co/s1m9kW5/Health.png",
+        "category": "Health",
+        "description": "Stay healthy and fit.",
+        "price": "Free",
+        "card_bg_color": "#0052FF26",
+        "cart_text_color": "#0052FF",
+        "donation_description": "Prioritize your health and well-being with our range of resources dedicated to keeping you healthy and fit. From expert advice to practical tips, we're here to support your wellness journey. Your contribution helps us continue providing valuable resources for a healthier community. Together, we can create a positive impact on the health and well-being of individuals around the world. Thank you for your generous donation."
+    },
+    {
+        "id": 11,
+        "title": "Wellness tips and advice.",
+        "Img": "https://i.ibb.co/s1m9kW5/Health.png",
+        "category": "Health",
+        "description": "Wellness tips and advice.",
+        "price": "Free",
+        "card_bg_color": "#0052FF26",
+        "cart_text_color": "#0052FF",
+        "donation_description": "Prioritize your well-being with our collection of wellness tips and expert advice. We're committed to supporting your journey towards a healthier and happier life. Your contribution enables us to continue providing valuable resources for a thriving community. Together, we can make a positive impact on the well-being of individuals around the world. Thank you for your generous donation."
+    },
+    {
+        "id": 12,
+        "title": "Mental health matters.",
+        "Img": "https://i.ibb.co/s1m9kW5/Health.png",
+        "category": "Health",
+        "description": "Mental health matters.",
+        "price": "Free",
+        "card_bg_color": "#0052FF26",
+        "cart_text_color": "#0052FF",
+        "donation_description": "Prioritize your mental health with our resources dedicated to mental well-being. We're here to support you on your journey towards a healthier mind. Your contribution helps us continue providing valuable resources for a mentally thriving community. Together, we can make a positive impact on the mental well-being of individuals around the world. Thank you for your generous donation."
+    },
+    {
+        "id": 3,
+        "title": "Master new skills.",
+        "Img": "https://i.ibb.co/dc1M6j5/Education.png",
+        "category": "Education",
+        "description": "Master new skills.",
+        "price": "$29.99",
+        "card_bg_color": "#FF444A10",
+        "cart_text_color": "#FF444A",
+        "donation_description": "Unlock your potential and master new skills with our educational resources. Whether you're looking to advance your career or pursue personal interests, we're here to support your learning journey. Your contribution helps us continue providing valuable resources for a thriving community of learners. Together, we can make a positive impact on the educational opportunities available to individuals around the world. Thank you for your generous donation."
+    }
+]
