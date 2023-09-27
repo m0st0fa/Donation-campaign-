@@ -22,7 +22,7 @@ import SingleDontaionCart from "../SingleDontaionCart/SingleDontaionCart";
             }
            <div className={cardLength === allCart.length && 'hidden'}>
            <div className= "text-center">
-           <button onClick={handleShowAllCart} className="btn btn-primary absolute ">Show All</button>
+           <button onClick={handleShowAllCart} className="btn btn-primary absolute ">show all</button>
            </div>
            </div>
         </div>
