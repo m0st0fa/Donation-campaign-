@@ -25,7 +25,7 @@ const Banner = () => {
          I Grow By Helping People In Need
        </h1>
        <div className="flex">
-         <input className="p-3 ml-4" type="text" placeholder="Search here...." />
+         <input className="p-3 ml-4" type="text" placeholder="Search here" />
          <button className="btn mr-4 bg-red-600">Search</button>
        </div>
      </div>
