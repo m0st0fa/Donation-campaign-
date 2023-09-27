@@ -7,10 +7,10 @@ import {
 } from "react-router-dom";
 import Root from './Components/Root/Root';
 import Home from './Components/Home/Home';
-import Donation from './Components/Donation/Donation.JSX';
 import Statistics from './Components/Statistics/Statistics';
 import ErrorPage from './Components/ErrorPage/ErrorPage';
 import DontationCart from './Components/DontationCart/DontationCart';
+import Donation from './Components/Donation/Donation.JSX';
 const router = createBrowserRouter([
   {
     path: "/",
@@ -23,13 +23,13 @@ const router = createBrowserRouter([
       },
       {
         path:"/Donation/:id",
-        element: <Donation></Donation>, 
-        loader: ()=> fetch('../public/Cart.json')
+        element:<Donation></Donation>, 
+        loader: () => fetch('public/Cart.json')
       },
       {
         path:"/Statistics",
         element: <Statistics></Statistics>,
-        loader: ()=> fetch('../public/Cart.json')
+        loader: ()=> fetch('public/Cart.json')
         
       },
       {

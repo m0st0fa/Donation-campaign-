@@ -19,7 +19,7 @@ import { NavLink } from "react-router-dom";
             </ul>
           </div>
           <div>
-           <img src="/public/Logo.png" alt="img" />
+           <img src="https://i.ibb.co/X2wMFQN/Logo.png" alt="img" />
           </div>
         </div>
         <div className="navbar-center hidden lg:flex">

@@ -1,6 +1,6 @@
 const Banner = () => {
    const bannerStyle = {
-     backgroundImage: `linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(public/banner.png)`,
+     backgroundImage: `linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(https://i.ibb.co/HzKZj2m/banner.jpg)`,
      backgroundSize: 'cover',
      backgroundRepeat: 'no-repeat',
      opacity: 0.7,

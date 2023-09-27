@@ -7,7 +7,7 @@ import SingleDontaionCart from "../SingleDontaionCart/SingleDontaionCart";
    const [allCart, setAllCart] =useState([])
    const [cardLength, setCartLength] = useState(4)
    useEffect(()=>{
-    fetch('/public/Cart.json')
+    fetch('Cart.json')
     .then(res => res.json())
     .then(data => setAllCart(data))
    },[])

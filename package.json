@@ -17,6 +17,7 @@
     "react-router-dom": "^6.16.0",
     "react-toastify": "^9.1.3",
     "sort-by": "^1.2.0",
+    "surge": "^0.23.1",
     "sweetalert2": "^11.7.31"
   },
   "devDependencies": {
